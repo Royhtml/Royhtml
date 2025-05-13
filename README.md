@@ -1,4 +1,4 @@
-
+<img src ="Aplication Date.jpg">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40terminal~%3A+whoami;Cyber+Security+Engineer;Fullstack+Developer;Ethical+Hacker;CTF+Player;Open+Source+Contributor" alt="Terminal Typing SVG" />
 </h1>
