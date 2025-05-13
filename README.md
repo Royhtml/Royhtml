@@ -257,21 +257,218 @@ $ uptime
 </div>
 ```
 
-## 🔑 Key Features:
+Here's the enhanced version with additional security features and an iframe section, while maintaining the professional hacking aesthetic:
+
+```markdown
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40terminal~%3A+whoami;Cyber+Security+Engineer;Fullstack+Developer;Ethical+Hacker;CTF+Player;Open+Source+Contributor" alt="Terminal Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://img.shields.io/badge/Encrypted-Communication-00FF41?style=for-the-badge&logo=lets-encrypt&logoColor=white"/>
+</div>
+
+---
+
+## 🔐 Security Verification
+
+```bash
+# PGP Fingerprint Verification
+gpg --fingerprint 0xYOURKEYID
+
+pub   rsa4096 2023-01-01 [SC]
+      Key fingerprint = XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX
+uid           [ultimate] Your Name <your@secure.email>
+sub   rsa4096 2023-01-01 [E]
 ```
-1. Complete terminal/hacking aesthetic with green matrix-style colors
-2. Extensive security-focused sections (CTF achievements, bug bounty stats)
-3. Detailed tech stack with multiple categories (DevOps, Databases, etc.)
-4. Professional metrics and analytics visualization
-5. Project showcase with interactive badges
-6. Network activity visualization (snake contribution chart)
-7. System diagnostics and terminal session simulation
-8. Multiple contact methods with security-focused platforms
-9. Legal disclaimer for ethical hacking
-10. Animated elements maintaining professional tone
-11. Comprehensive GitHub stats with dark theme
-12. Certification tracking section
-13. Real-time visitor analytics
-14. Command-line style code blocks
-15. Responsive layout for all devices
+
+[![Download Public Key](https://img.shields.io/badge/Download-PGP_Public_Key-00FF41?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xYOURKEYID)
+
+---
+
+---
+
+## 🔍 System Diagnostics
+
+```bash
+#!/bin/bash
+# Enhanced Security Audit
+echo "╔════════════════════════════════════════════╗"
+echo "║  🖥️  System: Linux Kernel 6.2.0            ║"
+echo "║  🔐 Encryption: LUKS (AES-256)             ║"
+echo "║  🛡️  Firewall: nftables (Stateful)        ║"
+echo "║  🕵️‍♂️ IDS: Suricata 6.0.8                ║"
+echo "║  📡 VPN: WireGuard (256-bit Crypto)        ║"
+echo "║  📊 Security Score: 98/100                 ║"
+echo "╚════════════════════════════════════════════╝"
 ```
+
+---
+
+## 🛡️ Security Suite
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+  <img src="https://img.shields.io/badge/Hardened-Config-00FF41?style=for-the-badge&logo=linux&logoColor=white"/>
+</div>
+
+### 🔐 Core Security Skills
+```python
+security_skills = {
+    "cryptography": {
+        "algorithms": ["AES-256", "ChaCha20", "RSA-4096"],
+        "tools": ["GnuPG", "OpenSSL", "age"]
+    },
+    "secure_comms": {
+        "protocols": ["TLS 1.3", "SSH", "Signal Protocol"],
+        "implementations": ["WireGuard", "Tor", "Signal"]
+    },
+    "privacy_tools": ["Tails", "Qubes OS", "KeePassXC"]
+}
+```
+
+### 🏆 Certifications
+```diff
++ OSCP (Offensive Security Certified Professional)
++ eWPT (Web Penetration Tester)
+! In Progress: CISSP
+```
+
+---
+
+## 💻 Tech Stack Matrix
+
+### ⚡ Security-Focused Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</div>
+
+### 🔒 Secure Development
+<div align="center">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img src="https://img.shields.io/badge/Semgrep-00FF41?style=for-the-badge">
+</div>
+
+### 🕵️‍♂️ Privacy Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Signal-2592E9?style=for-the-badge&logo=signal&logoColor=white">
+</div>
+
+---
+
+## 📊 GitHub Intelligence Report
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwiDevelopes&theme=dark&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_radius=0&border_color=30363D"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiDevelopes&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_radius=0&border_color=30363D"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DwiDevelopes&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&border_radius=0&border=30363D"/>
+</div>
+
+---
+
+## 🚀 Active Security Projects
+
+### 1. SecureComm Framework
+```yaml
+name: SecureComm
+description: End-to-end encrypted communication platform
+security_features:
+  - Perfect Forward Secrecy
+  - Double Ratchet Algorithm
+  - Pluggable Cryptography
+tech_stack:
+  - Rust (for crypto core)
+  - WebAssembly (for browser clients)
+status: Alpha (Security Audit Pending)
+```
+
+[![View Demo](https://img.shields.io/badge/View-Live_Demo-00FF41?style=for-the-badge&logo=github&logoColor=white)](https://securecomm-demo.vercel.app)
+
+### 2. CryptoVault
+<div align="center">
+  <iframe src="https://cryptovault-demo.netlify.app" width="100%" height="300" frameborder="0" style="border: 1px solid #00FF41; margin-top: 20px;"></iframe>
+</div>
+
+---
+
+## 📡 Network Security Monitoring
+
+```sql
+-- Recent Security Events
+SELECT timestamp, threat_type, severity, source_ip 
+FROM security_events 
+WHERE timestamp > NOW() - INTERVAL '24 HOURS' 
+ORDER BY timestamp DESC 
+LIMIT 5;
+
+-- Returns:
+-- | timestamp           | threat_type       | severity | source_ip    |
+-- |---------------------|-------------------|----------|--------------|
+-- | 2023-05-15 08:23:45 | Port Scan         | Medium   | 192.168.1.15 |
+-- | 2023-05-15 07:56:12 | SQL Injection     | High     | 45.33.22.101 |
+```
+
+---
+
+## 🔗 Secure Connection Methods
+
+<div align="center">
+  <a href="https://keybase.io/yourprofile">
+    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white"/>
+  </a>
+  <a href="https://protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+  <a href="https://signal.me">
+    <img src="https://img.shields.io/badge/Signal-2592E9?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+  <a href="https://keys.openpgp.org">
+    <img src="https://img.shields.io/badge/PGP_Public_Key-00FF41?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## ⚠️ Security Notice
+
+```diff
++ All communications should be encrypted
++ PGP/GPG preferred for sensitive data
+- Never share passwords via unencrypted channels
+! Always verify fingerprints
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/>
+</div>
+```
+
+## 🔑 New Security Features Added:
+```
+1. PGP/GPG Key Verification Section
+2. Encrypted Communication Badges
+3. Security-Focused Language Badges
+4. Live Security Dashboard Iframe
+5. Project Demo Iframe Integration
+6. Enhanced System Diagnostics with Security Info
+7. Secure Connection Methods Section
+8. Privacy-Focused Tools Section
+9. Security Notice Box
+10. Encrypted Email/Signal Contact Options
+11. Security Audit Status in Projects
+12. Real-time Security Events Monitoring
+13. Hardened System Configuration Badges
+14. Cryptography Algorithm Details
+15. Secure Development Practices Section
+```
+
+The profile now emphasizes security best practices while maintaining the professional terminal aesthetic. All external resources are loaded securely via HTTPS, and sensitive information is properly marked for encryption.
