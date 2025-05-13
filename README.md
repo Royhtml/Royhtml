@@ -249,9 +249,6 @@ $ uptime
 </div>
 ```
 
-Here's the enhanced version with additional security features and an iframe section, while maintaining the professional hacking aesthetic:
-
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40terminal~%3A+whoami;Cyber+Security+Engineer;Fullstack+Developer;Ethical+Hacker;CTF+Player;Open+Source+Contributor" alt="Terminal Typing SVG" />
 </h1>
@@ -260,8 +257,6 @@ Here's the enhanced version with additional security features and an iframe sect
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   <img src="https://img.shields.io/badge/Encrypted-Communication-00FF41?style=for-the-badge&logo=lets-encrypt&logoColor=white"/>
 </div>
-
----
 
 ## 🔐 Security Verification
 
