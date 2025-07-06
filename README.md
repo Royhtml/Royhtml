@@ -356,11 +356,11 @@ security_skills = {
 ## 📊 GitHub Intelligence Report
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwiDevelopes&theme=dark&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_radius=0&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Royhtml&theme=dark&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_radius=0&border_color=30363D"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiDevelopes&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_radius=0&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royhtml&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_radius=0&border_color=30363D"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DwiDevelopes&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&border_radius=0&border=30363D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Royhtml&theme=dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&border_radius=0&border=30363D"/>
 </div>
 
 ---
