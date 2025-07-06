@@ -98,11 +98,10 @@ security_skills = {
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </div>
 
----
 
 
 
----
+
 
 ## 🕵️‍♂️ Recent CTF Achievements
 
@@ -128,7 +127,7 @@ security_skills = {
 }
 ```
 
----
+
 
 ## 🚀 Active Projects
 
@@ -162,7 +161,7 @@ status: Active Development
   <img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="300"/>
 </div>
 
----
+
 
 ## � System Vulnerabilities (Bug Bounty)
 
@@ -178,15 +177,15 @@ WHERE status = 'Vulnerability Reported';
 -- | Intigriti      | Medium   | $2,500  |
 ```
 
----
+
 
 ## 📡 Network Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DwiDevelopes/DwiDevelopes/output/github-contribution-grid-snake-dark.svg" alt="Network Traffic Visualization" width="100%"/>
+  <img src="https://www.researchgate.net/publication/277919324/figure/fig1/AS:299578109775872@1448436395933/CPM-network-of-a-13-activity-network.png" width="100%"/>
 </div>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -208,15 +207,14 @@ WHERE status = 'Vulnerability Reported';
   </a>
 </div>
 
----
 
 ## 🎚️ System Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/DwiDevelopes?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="System Metrics"/>
+  <img src="https://cdn.buttercms.com/LHw1Yft2TZ2ETWO0zdsL" alt="System Metrics"/>
 </div>
 
----
+
 
 ## 🖥️ Terminal Session
 
@@ -229,7 +227,7 @@ $ uptime
  23:47:42 up 42 days,  6:32,  2 users,  load average: 0.12, 0.08, 0.06
 ```
 
----
+
 
 ## 📈 Visitor Analytics
 
@@ -240,7 +238,7 @@ $ uptime
   <img src="https://profile-counter.glitch.me/DwiDevelopes/count.svg" alt="Visitor Count"/>
 </div>
 
----
+
 
 ## ⚠️ Disclaimer
 
@@ -253,7 +251,6 @@ $ uptime
 <div align="center">
   <img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" width="100"/>
 </div>
-```
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40terminal~%3A+whoami;Cyber+Security+Engineer;Fullstack+Developer;Ethical+Hacker;CTF+Player;Open+Source+Contributor" alt="Terminal Typing SVG" />
@@ -278,9 +275,9 @@ sub   rsa4096 2023-01-01 [E]
 
 [![Download Public Key](https://img.shields.io/badge/Download-PGP_Public_Key-00FF41?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xYOURKEYID)
 
----
 
----
+
+
 
 ## 🔍 System Diagnostics
 
@@ -410,7 +407,6 @@ LIMIT 5;
 -- | 2023-05-15 07:56:12 | SQL Injection     | High     | 45.33.22.101 |
 ```
 
----
 
 ## 🔗 Secure Connection Methods
 
@@ -429,7 +425,7 @@ LIMIT 5;
   </a>
 </div>
 
----
+
 
 ## ⚠️ Security Notice
 
@@ -443,10 +439,10 @@ LIMIT 5;
 <div align="center">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="150"/>
 </div>
-```
+
 
 ## 🔑 New Security Features Added:
-```
+
 1. PGP/GPG Key Verification Section
 2. Encrypted Communication Badges
 3. Security-Focused Language Badges
@@ -462,6 +458,6 @@ LIMIT 5;
 13. Hardened System Configuration Badges
 14. Cryptography Algorithm Details
 15. Secure Development Practices Section
-```
+
 
 The profile now emphasizes security best practices while maintaining the professional terminal aesthetic. All external resources are loaded securely via HTTPS, and sensitive information is properly marked for encryption.
