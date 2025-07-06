@@ -182,7 +182,7 @@ WHERE status = 'Vulnerability Reported';
 ## 📡 Network Activity
 
 <div align="center">
-  <img src="https://www.researchgate.net/publication/277919324/figure/fig1/AS:299578109775872@1448436395933/CPM-network-of-a-13-activity-network.png" width="100%"/>
+  <img src="https://images.contentstack.io/v3/assets/blt28ff6c4a2cf43126/bltf62f2c4d3eaa28c1/651c770e6065f306362284bf/nta-network-traffic-forensics_(2).png?auto=webp&disable=upscale&width=3840&quality=75" width="100%"/>
 </div>
 
 
@@ -385,7 +385,7 @@ status: Alpha (Security Audit Pending)
 
 ### 2. CryptoVault
 <div align="center">
-  <iframe src="https://cryptovault-demo.netlify.app" width="100%" height="300" frameborder="0" style="border: 1px solid #00FF41; margin-top: 20px;"></iframe>
+  <img src="https://cryptonmobile.com/wp-content/uploads/2022/08/AdobeStock_298559228-scaled.jpeg" width="100%" height="300" frameborder="0" style="border: 1px solid #00FF41; margin-top: 20px;"></img>
 </div>
 
 ---
